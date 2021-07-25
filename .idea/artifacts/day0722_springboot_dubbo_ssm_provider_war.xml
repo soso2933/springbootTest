@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="day0722-springboot-dubbo-ssm-provider:war">
+    <output-path>$PROJECT_DIR$/day0722-springboot-dubbo-ssm-provider/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>day0722-springboot-dubbo-ssm-provider</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="day0722-springboot-dubbo-ssm-provider-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="day0722-springboot-dubbo-ssm-provider:war exploded" />
+    </root>
+  </artifact>
+</component>

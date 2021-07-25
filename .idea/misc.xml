@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/day0722-springboot-dubbo-ssm-consumer" />
+    <file type="web" url="file://$PROJECT_DIR$/day0722-springboot-dubbo-ssm-provider" />
+    <file type="web" url="file://$PROJECT_DIR$/day0725-springboot-war" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/day0623-springboot/pom.xml" />
+        <option value="$PROJECT_DIR$/day0623-springboot-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/day0624-springboot-context-path/pom.xml" />
+        <option value="$PROJECT_DIR$/day0624-springboot-properties-yml-yaml/pom.xml" />
+        <option value="$PROJECT_DIR$/day0709-springboot-first/pom.xml" />
+        <option value="$PROJECT_DIR$/day0709-springboot-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/day0718-springboot-first/pom.xml" />
+        <option value="$PROJECT_DIR$/day0718-springboot-contextpath/pom.xml" />
+        <option value="$PROJECT_DIR$/day0718-springboot-properties-yml/pom.xml" />
+        <option value="$PROJECT_DIR$/day0718-springboot-custome-config/pom.xml" />
+        <option value="$PROJECT_DIR$/day0718-springboot-jsp/pom.xml" />
+        <option value="$PROJECT_DIR$/day0719-springboot-mybatis/pom.xml" />
+        <option value="$PROJECT_DIR$/day0720-springboot-transacation/pom.xml" />
+        <option value="$PROJECT_DIR$/day0721-spingboot-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/day0721-spring-restful/pom.xml" />
+        <option value="$PROJECT_DIR$/day0721-springboot-springmvc/pom.xml" />
+        <option value="$PROJECT_DIR$/day0721-springboot-redis/pom.xml" />
+        <option value="$PROJECT_DIR$/day0722-springboot-dubbo-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/day0722-springboot-dubbo-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/day0722-springboot-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/day0722-springboot-dubbo-ssm-interface/pom.xml" />
+        <option value="$PROJECT_DIR$/day0722-springboot-dubbo-ssm-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/day0722-springboot-dubbo-ssm-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/day0723-springboot-java/pom.xml" />
+        <option value="$PROJECT_DIR$/day0724-springboot-close-logo/pom.xml" />
+        <option value="$PROJECT_DIR$/day0724-springboot-modify-logo/pom.xml" />
+        <option value="$PROJECT_DIR$/day0724-springboot-interceptor/pom.xml" />
+        <option value="$PROJECT_DIR$/day0724-springboot-servlet/pom.xml" />
+        <option value="$PROJECT_DIR$/day0724-springboot-servlet-2/pom.xml" />
+        <option value="$PROJECT_DIR$/day0724-springboot-filter/pom.xml" />
+        <option value="$PROJECT_DIR$/day0724-springboot-filter-2/pom.xml" />
+        <option value="$PROJECT_DIR$/day0724-springboot-character-1/pom.xml" />
+        <option value="$PROJECT_DIR$/day0725-springboot-war/pom.xml" />
+        <option value="$PROJECT_DIR$/day0725-springboot-jar/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_15">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
