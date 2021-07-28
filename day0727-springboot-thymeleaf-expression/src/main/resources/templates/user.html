@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <h1 th:text="${user.id}">用户id</h1>
+
+    <h1 th:text="${user.username}">用户姓名</h1>
+    <h1 th:text="${user.age}">用户年龄</h1>
+    <!--选择变量表达式 span 默认不换行-->
+    <div th:object="${user}">
+        用户id：<span th:text="*{id}"></span><br/>
+        用户姓名：<span th:text="*{username}"></span><br/>
+        用户年龄：<span th:text="*{age}"></span>
+    </div>
+</body>
+</html>

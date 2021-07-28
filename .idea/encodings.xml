@@ -34,6 +34,10 @@
     <file url="file://$PROJECT_DIR$/day0724-springboot-servlet/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/day0725-springboot-jar/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/day0725-springboot-war/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0726-springboot-logback/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0727-springboot-thymeleaf-expression/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0727-springboot-thymeleaf/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/day0728-springboot-thymeleaf/src/main/java" charset="UTF-8" />
     <file url="PROJECT" charset="UTF-8" />
   </component>
 </project>

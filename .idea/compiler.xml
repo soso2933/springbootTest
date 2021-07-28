@@ -2,6 +2,7 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
@@ -10,10 +11,12 @@
         <module name="day0722-springboot-dubbo-consumer" />
         <module name="day0718-springboot-custome-config" />
         <module name="day0721-springboot-redis" />
+        <module name="day0727-springboot-thymeleaf" />
         <module name="day0623-springboot-springmvc" />
         <module name="day0724-springboot-servlet" />
         <module name="day0624-springboot-context-path" />
         <module name="day0718-springboot-jsp" />
+        <module name="day0727-springboot-thymeleaf-expression" />
         <module name="day0722-springboot-dubbo-ssm-interface" />
         <module name="day0720-springboot-transacation" />
         <module name="day0721-springboot-springmvc" />
@@ -28,6 +31,7 @@
         <module name="day0724-springboot-close-logo" />
         <module name="day0718-springboot-first" />
         <module name="day0723-springboot-java" />
+        <module name="day0728-springboot-thymeleaf" />
         <module name="day0718-springboot-properties-yml" />
         <module name="day0722-springboot-dubbo-ssm-provider" />
         <module name="day0718-springboot-contextpath" />
@@ -39,6 +43,7 @@
         <module name="day0623-springboot" />
         <module name="day0724-springboot-filter" />
         <module name="day0719-springboot-mybatis" />
+        <module name="day0726-springboot-logback" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -76,7 +81,12 @@
       <module name="day0724-springboot-servlet" target="1.8" />
       <module name="day0724-springboot-servlet-2" target="1.8" />
       <module name="day0725-springboot-jar" target="1.8" />
+      <module name="day0725-springboot-thymeleaf" target="1.8" />
       <module name="day0725-springboot-war" target="1.8" />
+      <module name="day0726-springboot-logback" target="1.8" />
+      <module name="day0727-springboot-thymeleaf" target="1.8" />
+      <module name="day0727-springboot-thymeleaf-expression" target="1.8" />
+      <module name="day0728-springboot-thymeleaf" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -112,7 +122,12 @@
       <module name="day0724-springboot-servlet" options="-parameters" />
       <module name="day0724-springboot-servlet-2" options="-parameters" />
       <module name="day0725-springboot-jar" options="-parameters" />
+      <module name="day0725-springboot-thymeleaf" options="-parameters" />
       <module name="day0725-springboot-war" options="-parameters" />
+      <module name="day0726-springboot-logback" options="-parameters" />
+      <module name="day0727-springboot-thymeleaf" options="-parameters" />
+      <module name="day0727-springboot-thymeleaf-expression" options="-parameters" />
+      <module name="day0728-springboot-thymeleaf" options="-parameters" />
     </option>
   </component>
 </project>

@@ -42,6 +42,11 @@
         <option value="$PROJECT_DIR$/day0724-springboot-character-1/pom.xml" />
         <option value="$PROJECT_DIR$/day0725-springboot-war/pom.xml" />
         <option value="$PROJECT_DIR$/day0725-springboot-jar/pom.xml" />
+        <option value="$PROJECT_DIR$/day0725-springboot-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/day0726-springboot-logback/pom.xml" />
+        <option value="$PROJECT_DIR$/day0727-springboot-thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/day0727-springboot-thymeleaf-expression/pom.xml" />
+        <option value="$PROJECT_DIR$/day0728-springboot-thymeleaf/pom.xml" />
       </list>
     </option>
   </component>

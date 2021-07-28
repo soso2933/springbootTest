@@ -35,6 +35,10 @@
       <module fileurl="file://$PROJECT_DIR$/day0724-springboot-servlet-2/day0724-springboot-servlet-2.iml" filepath="$PROJECT_DIR$/day0724-springboot-servlet-2/day0724-springboot-servlet-2.iml" />
       <module fileurl="file://$PROJECT_DIR$/day0725-springboot-jar/day0725-springboot-jar.iml" filepath="$PROJECT_DIR$/day0725-springboot-jar/day0725-springboot-jar.iml" />
       <module fileurl="file://$PROJECT_DIR$/day0725-springboot-war/day0725-springboot-war.iml" filepath="$PROJECT_DIR$/day0725-springboot-war/day0725-springboot-war.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0726-springboot-logback/day0726-springboot-logback.iml" filepath="$PROJECT_DIR$/day0726-springboot-logback/day0726-springboot-logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0727-springboot-thymeleaf/day0727-springboot-thymeleaf.iml" filepath="$PROJECT_DIR$/day0727-springboot-thymeleaf/day0727-springboot-thymeleaf.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0727-springboot-thymeleaf-expression/day0727-springboot-thymeleaf-expression.iml" filepath="$PROJECT_DIR$/day0727-springboot-thymeleaf-expression/day0727-springboot-thymeleaf-expression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day0728-springboot-thymeleaf/day0728-springboot-thymeleaf.iml" filepath="$PROJECT_DIR$/day0728-springboot-thymeleaf/day0728-springboot-thymeleaf.iml" />
     </modules>
   </component>
 </project>
